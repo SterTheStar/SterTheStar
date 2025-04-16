@@ -14,15 +14,8 @@ Oi! Eu sou a Esther, uma entusiasta da tecnologia e da escrita, apaixonada por c
 
 ---
 
-## 🌟 Projetos em Destaque
-
-- [Hydra Achievement Manager](https://github.com/Levynsk/hydra-achievement-manager)
-
----
-
 ## 🌸 Vamos Conectar!
 
 - 💬 Me siga no [Twitter](https://x.com/onlysterbr) para atualizações e insights sobre programação e cultura japonesa!
-- 💼 LinkedIn: Em breve!
 
 よろしくお願いします! ✨
