@@ -1,21 +1,60 @@
-# 🌸 こんにちは! Eu sou a Esther!
-
-🎌 Desenvolvedora | 💻 Escritora | 🌸 Admiradora da cultura japonesa
-
-Oi! Eu sou a Esther, uma entusiasta da tecnologia e da escrita, apaixonada por contar histórias incríveis e explorar a cultura japonesa em todos os seus aspectos. No meu tempo livre, me perco em códigos e palavras, sempre buscando algo novo para aprender e criar.
-
----
-
-## 🚀 O que eu faço
-
-- Desenvolvo projetos incríveis com Python, JavaScript e outras linguagens de programação.
-- Estou sempre criando novas funcionalidades e melhorando minhas habilidades.
-- Sou apaixonada por histórias, então escrevo também! 📚
+<h1 align="center">🌸 SterTheStar 🌸</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+senpai...+notice+me~%F0%9F%92%97;I'm+Ster%2C+just+a+little+star...;Trans+girl+dev+%F0%9F%8C%88+soft+on+the+outside%2C+tech+on+the+inside;UwU+I+code+for+fun+and+validation+%F0%9F%A7%A1%F0%9F%92%93" alt="Typing SVG" />
+</p>
 
 ---
 
-## 🌸 Vamos Conectar!
+### 🌸 About me ~
 
-- 💬 Me siga no [Twitter](https://x.com/onlysterbr) para atualizações e insights sobre programação e cultura japonesa!
+```yaml
+💖 pronouns: she/her  
+💫 vibe: magical girl + vscode fangirl  
+🧃 loves: bubble tea, terminal themes, cute cli tools  
+🐾 mood: sleeping next to her laptop with lofi beats  
+```
 
-よろしくお願いします! ✨
+---
+
+### 💻 My GitHub stats ~ so senpai can see how much I try...
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SterTheStar&show_icons=true&theme=rose_pine&hide_border=true&title_color=ffb6c1&icon_color=ffb6c1" alt="GitHub Stats"/>
+</p>
+
+---
+
+### 🧸 Most used languages ~
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SterTheStar&layout=compact&theme=rose_pine&hide_border=true&title_color=ffb6c1" alt="Top Languages"/>
+</p>
+
+---
+
+### 🪞 Some trophies... because validation is cute 🌷
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SterTheStar&theme=dracula&column=4&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=10" alt="Trophies" />
+</p>
+
+---
+
+### 🐍 My code snake... slithering like me when I see a bug
+
+<p align="center">
+  <img src="https://github.com/SterTheStar/SterTheStar/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
+</p>
+
+---
+
+### 🌸 Profile Views because I’m shy and curious 💗
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SterTheStar&style=flat-square&color=ffb6c1" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
