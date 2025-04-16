@@ -1,6 +1,6 @@
-<h1 align="center">🌸 SterTheStar 🌸</h1>
+<h1 align="center">🌸 Esther 🌸</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+senpai...+notice+me~%F0%9F%92%97;I'm+Ster%2C+just+a+little+star...;Trans+girl+dev+%F0%9F%8C%88+soft+on+the+outside%2C+tech+on+the+inside;UwU+I+code+for+fun+and+validation+%F0%9F%A7%A1%F0%9F%92%93" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Hi+senpai...+notice+me~%F0%9F%92%97;I'm+Esther%2C+just+a+little+star...;Trans+girl+dev+%F0%9F%8C%88+soft+on+the+outside%2C+tech+on+the+inside;UwU+I+code+for+fun+and+validation+%F0%9F%A7%A1%F0%9F%92%93" alt="Typing SVG" />
 </p>
 
 ---
@@ -35,14 +35,6 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SterTheStar&theme=dracula&column=4&no-frame=true&title=Stars,Followers,Commit,Repositories&margin-w=10" alt="Trophies" />
-</p>
-
----
-
-### 🐍 My code snake... slithering like me when I see a bug
-
-<p align="center">
-  <img src="https://github.com/SterTheStar/SterTheStar/blob/output/github-contribution-grid-snake.svg" alt="snake gif"/>
 </p>
 
 ---
