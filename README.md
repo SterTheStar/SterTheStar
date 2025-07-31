@@ -7,9 +7,7 @@
 
 ```yaml
 pronouns: she/her  
-focus: systems, performance, and language design  
-style: quiet elegance, assertive code  
-energy: calm, sharp, unshakable  
+age: 19y 
 ```
 
 ---
