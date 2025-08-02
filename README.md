@@ -1,5 +1,4 @@
-<h1 align="center">🌸 Esther 🌸</h1>
-<p align="center">
+<h1>🏳️‍⚧️ Esther</h1>
 
 ---
 
