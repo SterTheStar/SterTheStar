@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Software Developer</strong><br>
-  <code>she/her</code> • <code>19 years old</code> • <code>Brazil 🇧🇷</code>
+  <code>she/her</code> • <code>20 years old</code> • <code>Brazil 🇧🇷</code>
 </p>
 
 <p align="center">
